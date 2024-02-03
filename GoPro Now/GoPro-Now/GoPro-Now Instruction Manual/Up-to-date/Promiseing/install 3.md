@@ -74,7 +74,7 @@ rtmp {
             live on;
             allow publish all;
             allow play all;
-            push rtmp://your_dynamic_dns/live;
+            push rtmp://gopro-now.theworkpc.com/live;
         }
     }
 }
